@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3300 2200">
+ <g id="Notes">
+  <rect height="2200" id="artboard" style="fill:white;opacity:1" width="3300" x="0" y="0"/>
+  <text id="template-version" style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:end;" transform="matrix(1 0 0 1 3036 1933)">Template v.3.0</text>
+  <text id="descriptive-name" style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:end;" transform="matrix(1 0 0 1 3036 1969)">figure.squat</text>
+ </g>
+ <g id="Guides">
+  <line id="Baseline-S" style="fill:none;stroke:#27AAE1;opacity:1;stroke-width:0.5;" x1="263" x2="3036" y1="696" y2="696"/>
+  <line id="Capline-S" style="fill:none;stroke:#27AAE1;opacity:1;stroke-width:0.5;" x1="263" x2="3036" y1="625.541" y2="625.541"/>
+  <line id="Baseline-M" style="fill:none;stroke:#27AAE1;opacity:1;stroke-width:0.5;" x1="263" x2="3036" y1="1126" y2="1126"/>
+  <line id="Capline-M" style="fill:none;stroke:#27AAE1;opacity:1;stroke-width:0.5;" x1="263" x2="3036" y1="1055.54" y2="1055.54"/>
+  <line id="Baseline-L" style="fill:none;stroke:#27AAE1;opacity:1;stroke-width:0.5;" x1="263" x2="3036" y1="1556" y2="1556"/>
+  <line id="Capline-L" style="fill:none;stroke:#27AAE1;opacity:1;stroke-width:0.5;" x1="263" x2="3036" y1="1485.54" y2="1485.54"/>
+  <line id="left-margin-Ultralight-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="518" x2="518" y1="600.785" y2="720.121"/>
+  <line id="right-margin-Ultralight-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="584.3516" x2="584.3516" y1="600.785" y2="720.121"/>
+  <line id="left-margin-Regular-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="1406" x2="1406" y1="600.785" y2="720.121"/>
+  <line id="right-margin-Regular-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="1473.3532" x2="1473.3532" y1="600.785" y2="720.121"/>
+  <line id="left-margin-Black-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="2886" x2="2886" y1="600.785" y2="720.121"/>
+  <line id="right-margin-Black-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="2955.2789" x2="2955.2789" y1="600.785" y2="720.121"/>
+ </g>
+ <g id="Symbols">
+  <g id="Ultralight-S" transform="matrix(1 0 0 1 518 696)">
+   <path d="M36.1627 -60.9943C36.1627 -64.7885 33.0869 -67.8643 29.2927 -67.8643C25.4986 -67.8643 22.4227 -64.7885 22.4227 -60.9943C22.4227 -57.2001 25.4986 -54.1243 29.2927 -54.1243C33.0869 -54.1243 36.1627 -57.2001 36.1627 -60.9943Z"/>
+   <path d="M21.9165 -51.9751L53.0204 -52.5723C55.1503 -52.6132 56.9101 -50.9198 56.951 -48.7899C56.9919 -46.66 55.2984 -44.9002 53.1685 -44.8593L30.8541 -44.4308L24.3379 -30.218L34.47 -30.218C35.754 -30.218 36.9538 -29.5791 37.6704 -28.5138C38.3871 -27.4484 38.5267 -26.0964 38.0428 -24.9071L29.9429 -4.9992C29.1401 -3.026 26.8896 -2.0773 24.9164 -2.8801C22.9432 -3.6829 21.9944 -5.9334 22.7973 -7.9066L28.7364 -22.5035L15.587 -22.5035C8.6082 -22.5035 8.2366 -30.0042 11.016 -35.1297L19.2817 -50.3722C19.8075 -51.3417 20.8138 -51.9539 21.9165 -51.9751Z"/>
+  </g>
+  <g id="Regular-S" transform="matrix(1 0 0 1 1406 696)">
+   <path d="M37.9658 -61.4909C37.9658 -66.002 34.3089 -69.6589 29.7978 -69.6589C25.2868 -69.6589 21.6298 -66.002 21.6298 -61.4909C21.6298 -56.9798 25.2868 -53.3229 29.7978 -53.3229C34.3089 -53.3229 37.9658 -56.9798 37.9658 -61.4909Z"/>
+   <path d="M22.4121 -51.1735L53.516 -51.7708C55.9201 -51.8169 57.9063 -49.9055 57.9525 -47.5014C57.9987 -45.0974 56.0872 -43.1111 53.6832 -43.0649L31.6806 -42.6424L25.6169 -29.4165L34.9751 -29.4165C36.4244 -29.4165 37.7786 -28.6954 38.5875 -27.4929C39.3964 -26.2905 39.554 -24.7643 39.0078 -23.422L30.9079 -3.5141C30.0017 -1.2869 27.4616 -0.216 25.2344 -1.1222C23.0072 -2.0284 21.9363 -4.5685 22.8425 -6.7957L28.5034 -20.709L16.0921 -20.709C8.6035 -20.709 8.1438 -28.6453 11.0847 -34.0684L19.3503 -49.3109C19.9613 -50.4375 21.1306 -51.1489 22.4121 -51.1735Z"/>
+  </g>
+  <g id="Black-S" transform="matrix(1 0 0 1 2886 696)">
+   <path d="M40.0826 -62.4451C40.0826 -67.5885 35.913 -71.7581 30.7696 -71.7581C25.6261 -71.7581 21.4566 -67.5885 21.4566 -62.4451C21.4566 -57.3017 25.6261 -53.1321 30.7696 -53.1321C35.913 -53.1321 40.0826 -57.3017 40.0826 -62.4451Z"/>
+   <path d="M23.3655 -50.9824L54.4694 -51.5796C57.4002 -51.6359 59.8218 -49.3056 59.8781 -46.3748C59.9343 -43.4439 57.604 -41.0224 54.6732 -40.9661L33.2697 -40.5552L28.0755 -29.2255L35.9469 -29.2255C37.7136 -29.2255 39.3646 -28.3464 40.3508 -26.8805C41.337 -25.4145 41.5291 -23.554 40.8632 -21.9175L32.7633 -2.0096C31.6585 0.7056 28.5618 2.0112 25.8466 0.9064C23.1314 -0.1983 21.8258 -3.2951 22.9306 -6.0103L28.0571 -18.6101L17.0638 -18.6101C8.5957 -18.6101 7.9668 -27.3832 11.2178 -33.3782L19.4834 -48.6207C20.2581 -50.0492 21.7407 -50.9512 23.3655 -50.9824Z"/>
+  </g>
+ </g>
+</svg>
